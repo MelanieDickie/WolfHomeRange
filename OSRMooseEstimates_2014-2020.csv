@@ -1,0 +1,80 @@
+common_name,WMUNIT_COD,month,year,density_lci_0.9,density_uci_0.9,density_avg,method,region
+Moose,158,January,2016,0.016,0.03,0.023,random block,prairie
+Moose,160,January,2019,0.04,0.06,0.05,random block,prairie
+Moose,163,January,2016,0.04,0.068,0.054,random block,prairie
+Moose,204,January,2019,0.095,0.17,0.13,transect,parkland
+Moose,210,January,2019,0.005,0.015,0.01,transect,parkland
+Moose,216,February,2019,0.07,0.23,0.15,transect,parkland
+Moose,221,December,2015,0.13,0.19,0.16,random block,parkland
+Moose,254,January,2016,NA,NA,0.34,random block,parkland
+Moose,256,December,2018,0.0765,0.164,0.112,distance,parkland
+Moose,258,January,2016,0.14,0.193,0.165,distance,parkland
+Moose,260,January,2016,NA,NA,0.16,random block,parkland
+Moose,318,January,2018,0.23,0.35,0.29,transect,foothills
+Moose,322,December,2015,0.29,0.35,0.32,random block,foothills
+Moose,324,January,2018,0.08,0.21,0.15,transect,foothills
+Moose,334,January,2016,NA,NA,0.26,transect,foothills
+Moose,338,January,2016,0.123,0.234,0.17,distance,foothills
+Moose,340,February,2016,0.1,0.2,0.14,distance,foothills
+Moose,346,February,2018,0.347,0.61,0.46,distance,foothills
+Moose,348,December,2015,0.695,1.04,0.85,distance,foothills
+Moose,349,February,2018,0.282,0.485,0.37,distance,foothills
+Moose,351,February,2018,0.285,0.462,0.36,distance,foothills
+Moose,352,January,2016,0.128,0.253,0.18,distance,foothills
+Moose,353,January,2016,0.448,0.7,0.56,distance,foothills
+Moose,354,February,2019,0.74,1.16,0.93,distance,foothills
+Moose,356,February,2014,0.34,0.53,0.42,distance,foothills
+Moose,356,February,2019,0.49,0.75,0.61,distance,foothills
+Moose,357,January,2015,0.288,0.455,0.36,distance,foothills
+Moose,358,January,2018,0.632,0.938,0.77,distance,foothills
+Moose,359,February,2015,0.518,0.739,0.619,distance,foothills
+Moose,360,January,2014,0.51,0.83,0.65,distance,foothills
+Moose,360,January,2018,0.386,0.65,0.5,distance,foothills
+Moose,500,January,2016,0.262,0.4,0.324,distance,boreal
+Moose,501,December,2018,0.176,0.3,0.229,distance,boreal
+Moose,502,January,2017,0.214,0.341,0.27,distance,boreal
+Moose,503,February,2015,0.25,0.35,0.3,distance,boreal
+Moose,504,January,2015,0.387,0.647,0.5,distance,boreal
+Moose,506,January,2018,0.53,0.771,0.64,distance,boreal
+Moose,509,February,2016,0.287,0.476,0.37,distance,boreal
+Moose,511,February,2014,0.085,0.183,0.124,distance,boreal
+Moose,512,January,2020,0.155,0.293,0.213,distance,boreal
+Moose,514,January,2017,0.192,0.386,0.273,distance,boreal
+Moose,515,January,2014,0.103,0.189,0.14,distance,boreal
+Moose,515,January,2019,0.163,0.281,0.214,distance,boreal
+Moose,516,February,2018,0.062,0.099,0.079,distance,boreal
+Moose,517,February,2019,0.065,0.112,0.085,distance,boreal
+Moose,519,January,2015,0.104,0.176,0.135,distance,boreal
+Moose,520,January,2018,0.116,0.218,0.16,distance,boreal
+Moose,521,January,2018,0.596,0.845,0.71,distance,boreal
+Moose,523,January,2018,0.33,0.54,0.42,distance,boreal
+Moose,526,January,2016,NA,NA,0.477,distance,boreal
+Moose,527,January,2015,0.22,0.367,0.284,distance,boreal
+Moose,528,February,2019,0.08,0.134,0.104,distance,boreal
+Moose,529,January,2017,0.068,0.117,0.089,distance,boreal
+Moose,530,January,2018,0.102,0.141,0.12,distance,boreal
+Moose,531,January,2016,0.05,0.09,0.07,distance,boreal
+Moose,536,February,2018,NA,NA,0.15,distance,boreal
+Moose,537,February,2018,NA,NA,0.24,distance,boreal
+Moose,540,January,2017,0.016,0.04,0.025,distance,boreal
+Moose,542,January,2016,0.06,0.09,0.072,distance,boreal
+Moose,544,February,2018,0.09,0.15,0.12,distance,boreal
+Moose,726,February,2014,0.035,0.076,0.051,distance,boreal
+Moose,200,January,2019,0.31,0.433,0.37,transect,parkland
+Moose,214,February,2019,0.148,0.358,0.23,distance,parkland
+Moose,314,February,2019,0.187,0.451,0.29,distance,foothills
+Moose,316,February,2019,0.249,0.813,0.45,distance,foothills
+Moose,224,January,2019,0.05,0.108,0.08,transect,parkland
+Moose,238,January,2019,0.06,0.141,0.1,transect,parkland
+Moose,244,January,2019,0.044,0.096,0.07,transect,parkland
+Moose,246,January,2019,0.052,0.147,0.1,transect,parkland
+Moose,347,February,2019,0.3,0.51,0.39,distance,foothills
+Moose,508,February,2019,0.31,0.51,0.39,distance,boreal
+Moose,524,January,2019,0.07,0.126,0.094,distance,boreal
+Moose,525,January,2019,0.157,0.267,0.205,distance,boreal
+Moose,841,January,2019,0.197,0.507,0.315,distance,boreal
+Moose,320,December,2018,0.35,0.72,0.54,transect,foothills
+Moose,322,December,2018,0.5,0.74,0.62,transect,foothills
+Moose,332,December,2018,0.34,0.48,0.41,transect,foothills
+Moose,203,January,2018,0.15,0.23,0.19,transect,parkland
+Moose,355,January,2017,0.274,0.452,0.352,distance,foothills
