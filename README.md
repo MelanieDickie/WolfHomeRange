@@ -146,10 +146,14 @@ AICTable_Basic<-as.data.frame(AIC(modpsbasic1, modpsbasic2, modpsbasic3))
 #Compare winning model above + linear feature density (LFD) vs + EVIScaled vs + LFD*EVIScaled
 modpshab1<-lmer(log(est) ~ DiffDTScaled  + Season + SA + LFD + (1|PackYear), REML=FALSE, data = HRData)
 modpshab2<-lmer(log(est) ~ DiffDTScaled  + Season + SA + EVIScaled + (1|PackYear), REML=FALSE, data = HRData)
-modpshab3<-lmer(log(est) ~ DiffDTScaled  + Season + SA + LFD*EVIScaled + (1|PackYear), REML=FALSE, data = HRData)
+modpshab4<-lmer(log(est) ~ DiffDTScaled  + Season + SA + LFD+EVIScaled + (1|PackYear), REML=FALSE, data = HRData)
 
-AIC(modpshab1, modpshab2, modpshab3)
+AIC(modpshab1, modpshab2, modpshab3, modpshab4)
 #LFD*EVIScaled is lowest, and all improved over null
+#LFD+EVIScaled is within 2AIC units, so equally supported. 
+#But does not test the effect of resource efficiency given resource density
+#Move forward with LFD*EVIScaled
+#But note that LFD and EVIScaled have significant effects similar to the interaction model
 
 ##Save to table and combine all components to one table
 AICTable_FULL<-as.data.frame(AIC(modpshab1, modpshab2, modpshab3))
