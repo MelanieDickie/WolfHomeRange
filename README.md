@@ -4,8 +4,8 @@ Melanie Dickie
 11 March, 2021
 
 In this repository you will find the data and scripts used for Dickie et
-al In Prep “Resource exploitation collapses the home range of an apex
-predator”.
+al.,2021. “Resource exploitation collapses the home range of an apex
+predator”. Ecology.
 
 First, we will evaluate the relationship between Δ EVI, a measure of
 habitat productivity, and moose density estimates in Alberta. This will
